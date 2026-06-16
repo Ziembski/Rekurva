@@ -1,7 +1,7 @@
 ## Rekurva
 ### An alternate English - Polish keyboard layout focused on efficiency based on GalileoBlues's Recurva
 
-![rekurva]()
+![rekurva](https://github.com/Ziembski/Rekurva/blob/main/rekurva.png)
 
 Since the layout was originally based on https://github.com/GalileoBlues/Recurva/ with modification for better polish, it was too low hanging fruit to not go for it.
 Recurva's name originates from the Eucalyptus Recurva, a critically endangered species endemic to only a tiny section of New South Wales, Australia.
@@ -21,7 +21,7 @@ Similiary "k" is common in polish, so it gets place of "h" as a compromise on th
 Generally we end up with 0,55% SFBs for both and pretty low LSBs and Scissors.
 
 ### Stats for english
-![rekurva_stats_eng]()
+![rekurva_stats_eng](https://github.com/Ziembski/Rekurva/blob/main/rekurva%20stats%20eng.png)
 
 ### Stats for polish
-![rekurva_stats_pl]()
+![rekurva_stats_pl](https://github.com/Ziembski/Rekurva/blob/main/rekurva%20stats%20pl.png)
