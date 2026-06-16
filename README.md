@@ -20,6 +20,8 @@ Similiary "k" is common in polish, so it gets place of "h" as a compromise on th
 
 Generally we end up with 0,55% SFBs for both and pretty low LSBs and Scissors.
 
+https://cyanophage.github.io/playground.html?layout=fndwv%27louy-srtcghkaei%3Bxjmpbqz%2C%2F.%5C%5Eback&mode=ergo&lan=english&thumb=l
+
 ### Stats for english
 ![rekurva_stats_eng](https://github.com/Ziembski/Rekurva/blob/main/rekurva%20stats%20eng.png)
 
